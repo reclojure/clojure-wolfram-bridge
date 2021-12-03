@@ -1,0 +1,4 @@
+{:paths ["." "resources"]
+ :deps {io.github.nextjournal/clerk {:mvn/version "0.3.233"}
+        scicloj/Clojuratica {:git/url "https://github.com/scicloj/Clojuratica"
+                             :sha     "d7090595466aff13e9b8277f577f6025bb647628"}}}
